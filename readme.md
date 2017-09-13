@@ -1,5 +1,5 @@
-#Twitter Miner, Parser and Push to Solr
-####Built by Aneesh Bhatnagar
+# Twitter Miner, Parser and Push to Solr
+#### Built by Aneesh Bhatnagar
 
 The Twitter Miner, Parser and Push to Solr application consists of mainly 4 different scripts and a few additional scripts. It was written for a graduate course at University at Buffalo. The use of each of these scripts is listed below. 
 
